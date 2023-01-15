@@ -20,4 +20,4 @@ python3 Inspect.py C:/Users/user-name/Documents/repo-name
 
 ## Author
 
-This program was written by Todd Brewer
+This program was written by Todd Brewer - Toddjbrewer@gmail.com
