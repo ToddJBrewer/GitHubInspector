@@ -4,7 +4,8 @@ Github Inspector is a Python program that takes the path to a local github repos
 
 ## Installation
 
-Github Inspector relies on the GitPython library [pip](https://pip.pypa.io/en/stable/) to install GitPython.
+Github Inspector uses the [GitPython](https://pypi.org/project/GitPython/) Library.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install GitPython. 
 
 ```bash
 python -m pip install gitpython
