@@ -1,4 +1,5 @@
-import os
+# Program that takes path to a local Github repo as cmnd line argument
+# Prints facts about the repository
 import sys
 import git
 import time
